@@ -10,4 +10,7 @@ ________________________________________________________________________________
 
 <ul>
   <li>The application can be found on: <a href = 'https://weather-app-mausam.streamlit.app/'>Weather-APP</a> </li>
+</li>
 </ul>
+
+![demo1](static/images/demo1.png)
